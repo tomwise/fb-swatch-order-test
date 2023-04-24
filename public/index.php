@@ -8,11 +8,11 @@ $brands = array (
       "config" => array(
           array(
             "mbox" => "Swatch_Order_RM_Tops",
-            "file" => "RM_Tops_Top100_colors.json",
+            "file" => "RM_Tops_Top100.json",
           ),
           array(
             "mbox" => "Swatch_Order_RM_Dresses",
-            "file" => "RM_Dresses_Top100_colors.json",
+            "file" => "RM_Dresses_Top100.json",
           )
       ),
   ),
@@ -21,15 +21,15 @@ $brands = array (
       "config" => array(
           array(
             "mbox" => "Swatch_Order_WW_Tops",
-            "file" => "WW_Tops_Top100_colors.json",
+            "file" => "WW_Tops_Top100.json",
           ),
           array(
             "mbox" => "Swatch_Order_WW_Bottoms",
-            "file" => "WW_Bottoms_Top100_colors.json",
+            "file" => "WW_Bottoms_Top100.json",
           ),
           array(
             "mbox" => "Swatch_Order_WW_Dresses",
-            "file" => "WW_Dresses_Top100_colors.json",
+            "file" => "WW_Dresses_Top100.json",
           )
       ),
   )
